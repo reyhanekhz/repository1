@@ -1,6 +1,6 @@
 #inlcude <stdio.h>
 int calculate(int a, int b)
 {
-  //Some calculation
-  return a*b*2-10;
+    //a combination of both calculation
+    return  a * b * 2 -10 + (a + b);
 }
